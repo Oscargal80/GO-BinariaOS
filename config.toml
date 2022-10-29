@@ -54,12 +54,6 @@ description = "Welcome to BinariaOS!"
   Cargando...
   Bienvenido a BinariaOS!
   Diseño y desarrollo web
-  Nos dedicamos al desarrollo 
-  de sitios web minimalístas
-  y elegantes
-  sencillos pero robustos 
-  y totalmente adaptables a cualquier formato
-  con campos y tablas dinámicas
   Nuestro compromiso es crecer con usted y su emprendimiento
   Contacte con nosotros!
   """
@@ -73,6 +67,7 @@ description = "Welcome to BinariaOS!"
   folderName = "/main/activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
     files = [
+        ["Main SIte", "https://binariaos.com.py"]
         ["e-Commerce", "https://shop.binariaos.com.py"],
         ["WordPress", "https://sites.binariaos.com.py"],
         ["MS-DOS", "https://binariaos.com.py/1980"],
