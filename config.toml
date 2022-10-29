@@ -62,12 +62,13 @@ description = "Welcome to BinariaOS!"
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "Activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
     files = [
         ["e-Commerce", "https://shop.binariaos.com.py"],
         ["WordPress", "https://sites.binariaos.com.py"],
         ["MS-DOS", "https://binariaos.com.py/1980"],
-        ["Dev in Go", "/works/go.md"]
-        ["HUGO", "/works/hugo.md"]
+        ["Dev in Go", "/works/go.md"],
+        ["HUGO", "/works/hugo.md"],
+        ["Contact!", "https://wa.me/595981480801"]
     ]
