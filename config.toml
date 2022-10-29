@@ -6,6 +6,7 @@ theme = "hugo-theme-shell"
 description = "Welcome to BinariaOS!"
 
 [Params]
+  favicon = “/img/favicon.ico” # Path to favicon file
   [Params.Terminal]
   # Note: color schema
   # Note: You can choose between
