@@ -1,6 +1,6 @@
 baseURL = "https://go-binaria.netlify.app"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "es-la"
+title = "BinariaOS App"
 theme = "hugo-theme-shell"
 
 [Params]
