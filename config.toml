@@ -11,7 +11,7 @@ description = "Welcome to BinariaOS!"
   # Note: You can choose between
   # Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
   # Note: If you want to use the Goph theme, set it to "goph" (See README.md)
-  schema = "powershell"
+  schema = "ubuntu"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -54,10 +54,13 @@ description = "Welcome to BinariaOS!"
   Cargando...
   Bienvenido a BinariaOS!
   Diseño y desarrollo web
-  Nos dedicamos al desarrollo de sitios web minimalístas y elegantes, 
-  sencillos pero robustos y totalmente adaptables a cualquier formato, 
-  con campos y tablas dinámicas. 
-  Nuestro compromiso es crecer con usted y su emprendimiento.
+  Nos dedicamos al desarrollo 
+  de sitios web minimalístas
+  y elegantes
+  sencillos pero robustos 
+  y totalmente adaptables a cualquier formato
+  con campos y tablas dinámicas
+  Nuestro compromiso es crecer con usted y su emprendimiento
   Contacte con nosotros!
   """
 
@@ -67,7 +70,7 @@ description = "Welcome to BinariaOS!"
 
   [Params.Tree]
   use = true
-  folderName = "Activity"
+  folderName = "/main/activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
     files = [
         ["e-Commerce", "https://shop.binariaos.com.py"],
