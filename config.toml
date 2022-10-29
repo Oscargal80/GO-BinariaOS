@@ -1,11 +1,11 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://go-binariaos.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "tender"
+    schema = "material"
 
     [Params.Tree]
     use = true
