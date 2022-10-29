@@ -11,7 +11,7 @@ description = "Welcome to BinariaOS!"
   # Note: You can choose between
   # Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
   # Note: If you want to use the Goph theme, set it to "goph" (See README.md)
-  schema = "ubuntu"
+  schema = "retro"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -24,8 +24,8 @@ description = "Welcome to BinariaOS!"
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "BinOS"
-  pcName = "App"
+  userName = "BinariaOS"
+  pcName = "AppServer"
   workDir = "site/"
   profile = "redirect.php"
 
@@ -48,13 +48,17 @@ description = "Welcome to BinariaOS!"
   titleDelay = 0 # title speed : "title" in front matter
   contentDelay = 0 # content speed : content in .md file
 
-  # activityDelay = 5 : deprecated
+  activityDelay = 5 #: deprecated
 
   description = """
   Cargando...
   Bienvenido a BinariaOS!
   Diseño y desarrollo web
-  
+  Nos dedicamos al desarrollo de sitios web minimalístas y elegantes, 
+  sencillos pero robustos y totalmente adaptables a cualquier formato, 
+  con campos y tablas dinámicas. 
+  Nuestro compromiso es crecer con usted y su emprendimiento.
+  CObtacte con nosotros!
   """
 
   # Note: If you want to use a Markdown file, you can use the following
