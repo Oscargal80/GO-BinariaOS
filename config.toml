@@ -11,7 +11,7 @@ description = "Welcome to BinariaOS!"
   # Note: You can choose between
   # Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
   # Note: If you want to use the Goph theme, set it to "goph" (See README.md)
-  schema = "ubuntu"
+  schema = "gruvbox_dark"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -36,7 +36,7 @@ description = "Welcome to BinariaOS!"
   # Note: and set "math: true" at front matter in your Markdown file
   ps1Delay = 5 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
   stdoutDelay = 5 # stdout speed : [description] , files in Params.Tree
-  commandDelay = 90 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+  commandDelay = 80 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
   terminalDelay = 20 #: deprecated
 
@@ -54,6 +54,8 @@ description = "Welcome to BinariaOS!"
   Ready-
   Bienvenido a BinariaOS
   Diseño y desarrollo web
+  Nuestro compromiso es crecer 
+  con usted y su emprendimiento
   Adelantando el futuro...
   """
 
