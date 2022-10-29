@@ -14,4 +14,5 @@ theme = "hugo-theme-shell"
         ["WordPress", "https://sites.binariaos.com.py"],
         ["MS-DOS", "https://binariaos.com.py/1980"],
         ["Dev in Go", "/works/go.md"]
+        ["HUGO", "/works/hugo.md"]
     ]
