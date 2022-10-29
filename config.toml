@@ -26,8 +26,8 @@ description = "Welcome to BinariaOS!"
   # Note: result of the tree command
   userName = "BinariaOS"
   pcName = "AppServer"
-  workDir = "site/"
-  profile = "redirect.php"
+  workDir = "App/site/"
+  profile = "serverbin.php"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -72,6 +72,5 @@ description = "Welcome to BinariaOS!"
         ["WordPress", "https://sites.binariaos.com.py"],
         ["MS-DOS", "https://binariaos.com.py/1980"],
         ["Dev in Go", "/works/go.md"],
-        ["HUGO", "/works/hugo.md"],
         ["Contact!", "https://wa.me/595981480801"]
     ]
