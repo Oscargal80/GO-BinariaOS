@@ -70,7 +70,7 @@ favicon = "/img/favicon.ico"
   folderName = "/main/activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
     files = [
-        ["Main SIte", "https://binariaos.com.py"],
+        ["Main SIte", "https://binariaos.com.py/bos"],
         ["e-Commerce", "https://shop.binariaos.com.py"],
         ["WordPress", "https://sites.binariaos.com.py"],
         ["MS-DOS", "https://binariaos.com.py/1980"],
