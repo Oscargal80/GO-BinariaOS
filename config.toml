@@ -51,11 +51,11 @@ description = "Welcome to BinariaOS!"
   #activityDelay = 5 #: deprecated
 
   description = """
-  Cargando...
-  Bienvenido a BinariaOS!
+  Cargando
+  Bienvenido a BinariaOS
   Diseño y desarrollo web
   Nuestro compromiso es crecer con usted y su emprendimiento
-  Contacte con nosotros!
+  
   """
 
   # Note: If you want to use a Markdown file, you can use the following
