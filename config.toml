@@ -24,9 +24,9 @@ description = "Welcome to BinariaOS!"
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
-  pcName = "laptop"
-  workDir = "mydir"
+  userName = "BinOS"
+  pcName = "App"
+  workDir = "site/"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
@@ -51,8 +51,9 @@ description = "Welcome to BinariaOS!"
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Jane Doe!
-  Nice to meet you!
+  Cargando...
+  Bienvenido a BinariaOS!
+  Diseño y desarrollo web
   
   """
 
