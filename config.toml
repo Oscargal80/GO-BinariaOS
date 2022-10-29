@@ -2,6 +2,8 @@ baseURL = "https://go-binaria.netlify.app"
 languageCode = "es-la"
 title = "BinariaOS App"
 theme = "hugo-theme-shell"
+[Params-meta]
+favicom = true
 # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
 description = "Welcome to BinariaOS!"
 # Path to favicon file
