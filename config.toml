@@ -73,7 +73,8 @@ description = "Welcome to BinariaOS!"
         ["HUGO", "/works/hugo.md"],
         ["Contact!", "https://wa.me/595981480801"]
     ]
-    description = """
+  [Params.Terminal]
+  description = """
   Arte & Diseño
   Dev by BinariaOS@2022
   Theme: hugo-theme-shell
