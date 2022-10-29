@@ -27,7 +27,7 @@ description = "Welcome to BinariaOS!"
   userName = "BinOS"
   pcName = "App"
   workDir = "site/"
-  profile = "redireccionando servidor"
+  profile = "redirect.php"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -38,7 +38,7 @@ description = "Welcome to BinariaOS!"
   stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
   commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
-  # terminalDelay = 20 : deprecated
+  terminalDelay = 20 : deprecated
 
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
@@ -73,3 +73,8 @@ description = "Welcome to BinariaOS!"
         ["HUGO", "/works/hugo.md"],
         ["Contact!", "https://wa.me/595981480801"]
     ]
+    description = """
+  Arte & Diseño
+  Dev by BinariaOS@2022
+  Theme: hugo-theme-shell
+  """
